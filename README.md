@@ -21,13 +21,7 @@ Proyecto de una intersección 3D con autos, semáforos y lógica de tráfico bá
 ```bash
 npm run dev
 ```
-Vite te mostrará una URL (por defecto http://localhost:5173); ábrela en el navegador.
-
-## Construir para producción
-```bash
-npm run build
-```
-Los archivos listos quedan en `dist/`.
+Vite te mostrará una URL (por defecto http://localhost:5173); abrirla en el navegador.
 
 
 ## Estructura breve
