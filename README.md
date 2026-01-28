@@ -1,6 +1,6 @@
 # Simulación de Tráfico 3D (Three.js + Vite)
 
-Proyecto de una intersección 3D con coches, semáforos y lógica de tráfico básica, construido con Three.js y Vite.
+Proyecto de una intersección 3D con autos, semáforos y lógica de tráfico básica, construido con Three.js y Vite.
 
 ## Requisitos
 - Node.js 18 o superior
