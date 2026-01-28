@@ -10,7 +10,7 @@ Proyecto de una intersección 3D con autos, semáforos y lógica de tráfico bá
 1. Clona el repositorio o descárgalo:
    ```bash
    git clone https://github.com/FilippiCR/info3_interseccion.git
-   cd <carpeta-del-repo>
+   cd info3_interseccion
    ```
 2. Instala dependencias:
    ```bash
