@@ -5,7 +5,7 @@ Proyecto de una intersección 3D con autos, semáforos y lógica de tráfico bá
 ## Requisitos
 - Ninguno (solo un navegador moderno). Recomendado: extensión **Live Server** en VS Code.
 
-## Uso (sin instalaciones)
+## Uso
 1. Clona o descarga el repositorio:
    ```bash
    git clone https://github.com/FilippiCR/info3_interseccion.git
