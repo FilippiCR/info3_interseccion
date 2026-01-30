@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'https://unpkg.com/three@0.182.0/build/three.module.js';
 import { Intersection } from '../entities/Intersection.js';
 import { TrafficLight } from '../entities/TrafficLight.js';
 import { Car } from '../entities/Car.js';
