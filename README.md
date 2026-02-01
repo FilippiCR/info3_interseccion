@@ -1,4 +1,4 @@
-# Simulación de Tráfico 3D (Three.js + Vite)
+# Simulación de Tráfico 3D (Three.js)
 
 Proyecto de una intersección 3D con autos, semáforos y lógica de tráfico básica, construido con Three.js
 
